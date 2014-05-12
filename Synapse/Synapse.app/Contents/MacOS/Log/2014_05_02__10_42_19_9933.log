@@ -1,0 +1,24 @@
+     240	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: ERROR, Masks: ALL
+     282	[INFO]	XnLog.cpp	173	Log system initialized. Console: 1, File: 1, Severity: ERROR, Masks: ALL
+ 1886216	[ERROR]	XnHostProtocol.cpp	915	Failed setting [19] to [1]: Failed to send a USB control request!
+ 1893464	[ERROR]	XnHostProtocol.cpp	915	Failed setting [19] to [1]: Failed to send a USB control request!
+ 1904903	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 11: Failed to re-submit asynch I/O transfer (err=-99)!
+ 1904927	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 12: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904942	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 13: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904949	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 14: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904955	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 15: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904959	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 0: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904964	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 1: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904970	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 2: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904978	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 3: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904985	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 4: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904992	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 5: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1904999	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 6: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1905008	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 7: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1905015	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 8: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1905026	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 9: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1905033	[ERROR]	XnUSBLinux-x86.cpp	1088	Endpoint 0x82, Buffer 10: Failed to re-submit asynch I/O transfer (err=-4)!
+ 1906101	[ERROR]	XnHostProtocol.cpp	915	Failed setting [5] to [0]: Failed to send a USB control request!
+ 1911813	[ERROR]	XnHostProtocol.cpp	915	Failed setting [6] to [0]: Failed to send a USB control request!
+ 1917577	[ERROR]	XnHostProtocol.cpp	915	Failed setting [7] to [0]: Failed to send a USB control request!
+ 2005131	[ERROR]	XnUSBLinux-x86.cpp	1011	Endpoint 0x82, Buffer 11: Failed to cancel asynch I/O transfer (err=-4)!
